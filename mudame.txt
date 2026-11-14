@@ -1,7 +1,12 @@
-Exercício para fazer a alteração do ficheiro mudame.txt -> por fazer
+Exercício para fazer a alteração do ficheiro mudame.txt -> Done
 
 alterei no computador de casa -> feito
 
 ------------------- // ---------------
 
 alterei no Cent0s -> feito
+
+------------------- // ---------------
+
+alterei no Ubuntu -> feito
+
